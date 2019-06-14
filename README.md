@@ -8,6 +8,11 @@ As a moderator, you’re a maestro. So here are a couple things to keep in mind 
 ## Energy
 People retain more information if they’re engaged. Engagement is as much about energy as it is about the words that are said. As moderator, you’re setting the tone in the room so you might have to stretch yourself to keep the presentation pithy, interesting and entertaining. The presentation isn’t about you or even about the interviewee/panelists. It’s about delivering an engaging educational experience for others. Your energy and ability to dig into questions make you a vessel for that experience. 
 
+## Audience Translation
+Your job is to translate stories, anecdotes and panelist answers into actionable advice for the audience. So who’s in the audience?
+* **Series Seed to Series B Developer, Enterprise, Infrastructure and B2B Saas Founders**: Heavybit founders fall into this category and tend to have a strong grasp of technical concepts while having varying degrees of go-to-market knowledge. Expectations around budgets, headcount, GTM ops, and tracking systemes need to be right-sized to appeal to founders. *Eg. This stage of company rarely has an official CISO or large specialized budgets for marketing*
+* **Senior Practitioners**: More often than not, specific conferences and presentation topics appeal to practitioners in the space. Unlike some of the founders in the room, pratictioners might be intimately familiar with buzzwords, ops and automation on your topic, might have a strong understanding of tactical processes, and may have experience as a specialist in larger and more established companies. Sometimes these practitioners attend your talk because they want to hear some of the early challenges a startup faces in their area of expertise. 
+
 ## Entertainment
 * **Break the fourth wall.** Feel free to poll the audience. You can ask them about their job titles, those who feel they measure their efforts well, team size, etc. You can also just call on specific individuals in the audience if you think they’ll offer additional insight. 
 * **Conflict is Often Interesting**: You can call out panelists/interviewees to offer controversial opinions, or stop the conversation and ask for clarification. The worst panels are those where everyone agrees on everything and nothing new is said. 
